@@ -1,4 +1,4 @@
-# Datacamp: Naïve Bees Image Loading and Processing
+# Datacamp: Bees Classification Part:1 Image Loading and Pre_Processing
 Load, transform, and understand images of honey bees and bumble bees in Python.
 
 ## Project Description
@@ -6,7 +6,7 @@ Can a machine distinguish between a honey bee and a bumble bee? Being able to id
 
 This project is the first part of a series of Projects that walk through working with image data, building classifiers using traditional techniques, and leveraging the power of deep learning for computer vision.
 
-## Project Tasks
+## Project is divided into 10 sub task
 - Import Python libraries
 - Opening images with PIL
 - Image manipulation with PIL
